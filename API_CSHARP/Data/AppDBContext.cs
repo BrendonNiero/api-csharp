@@ -5,7 +5,7 @@ namespace API_CSHARP.Data
 {
     public class AppDBContext : DbContext
     {
-        private DbSet<Estudante> Estudantes { get; set; }
+        public DbSet<Estudante> Estudantes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

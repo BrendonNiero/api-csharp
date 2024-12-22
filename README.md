@@ -20,5 +20,5 @@ Aplicação desenvolvida em C# utilizando o framework .NET, com integração do 
 ### ⚙️ Configuração do Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://https://github.com/BrendonNiero/api-csharp
+   cd API_CSHARP
